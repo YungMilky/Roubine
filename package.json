@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^8.2.10",
+    "react-native-elements": "^3.3.0"
+  }
+}
